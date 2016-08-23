@@ -1,0 +1,2 @@
+# wxPublicNo
+weixin Public No
